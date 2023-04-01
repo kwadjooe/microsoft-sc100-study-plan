@@ -3,7 +3,7 @@ Week 1:
 - [Exam-Labs: SC-100 Practice Test](https://www.exam-labs.com/exam/SC-100)
 
 Week 2:
-- [Microsoft Learn: Identity and Access Management in Azure Active Directory](https://docs.microsoft.com/en-us/learn/certifications/sc-900/?WT.mc_id=modinfra-16771-thmaure)
+- [Microsoft Learn: Identity and Access Management in Azure Active Directory](https://learn.microsoft.com/en-us/training/paths/manage-identity-and-access/)
 - [MeasureUp: SC-100 Official Practice Test](https://www.measureup.com/sc-100-microsoft-security-compliance-and-identity-fundamentals.html)
 
 Week 3:
