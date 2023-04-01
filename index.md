@@ -24,7 +24,7 @@ WEEK 5:
 
 EXTRA 
 
-- [Security documentation](https://learn.microsoft.com/en-us/security/)
+- [Security Documentation](https://learn.microsoft.com/en-us/security/)
 - [CISO Workshop Module 1: Microsoft Cybersecurity Briefing](https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop-module-1?source=recommendations)
 - [Microsoft Cybersecurity Reference Architectures](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true)  
 - [Conditional Access](https://github.com/microsoft/ConditionalAccessforZeroTrustResources/raw/main/ConditionalAccessSamplePolicies/Microsoft%20Conditional%20Access%20for%20Zero%20trust%20persona%20based%20policies.xlsx)
