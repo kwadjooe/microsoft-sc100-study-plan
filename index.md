@@ -2,7 +2,7 @@
 
 - [Study guide for Exam SC-100: Microsoft Cybersecurity Architect](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN)
 
-![Microsoft Defender](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MDB%20Infographic%20v1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85)
+![Cyber Security Architect]([https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MDB%20Infographic%20v1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85](https://www.kuppingercole.com/pics/fotolia_111383566_m_bearb.jpg))
 
 WEEK 1:
 
