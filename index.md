@@ -11,16 +11,15 @@ WEEK 2:
 WEEK 3:
 - [SC-100: Design security for infrastructure](https://learn.microsoft.com/en-us/training/paths/sc-100-design-security-for-infrastructure/)
 - [Microsoft Learn: Implement Azure Security](https://docs.microsoft.com/en-us/learn/certifications/sc-900/)
-- [Cybrary: Introduction to Cloud Security](https://www.cybrary.it/course/introduction-to-cloud-security/)
+
 
 WEEK 4:
 - [SC-100: Design a strategy for data and applications](https://learn.microsoft.com/en-us/training/paths/sc-100-design-strategy-for-data-applications/)
 - [Microsoft Learn: Secure Access and Data Protection in Azure](https://docs.microsoft.com/en-us/learn/certifications/sc-900/)
-- [GitHub: SC-100 Exam Study Guide](https://github.com/Arshad-Mohammad/SC-100-Microsoft-Certification-Exam-Study-Guide)
+- [GitHub: SC-100 Exam Study Guide](https://github.com/MicrosoftLearning/SC-100-Microsoft-Cybersecurity-Architect)
 
 WEEK 5:
 - [SC-100: Recommend Security Best Practices](https://learn.microsoft.com/en-us/training/paths/recommend-security-best-practices/)
-- [Exam-Labs: SC-100 Practice Test](https://www.exam-labs.com/exam/SC-100)
 - [MeasureUp: SC-100 Official Practice Test](https://www.measureup.com/sc-100-microsoft-security-compliance-and-identity-fundamentals.html)
 
 EXTRA 
