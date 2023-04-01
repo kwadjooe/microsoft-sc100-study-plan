@@ -1,4 +1,11 @@
+## Road map is based of the Microsoft Cybersecurity Architect SC-100 Study Guide.
+
+- [Study guide for Exam SC-100: Microsoft Cybersecurity Architect](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN)
+
+![Microsoft Defender](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MDB%20Infographic%20v1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85)
+
 WEEK 1:
+
 - [SC-100: Design a Zero Trust strategy and architecture](https://learn.microsoft.com/en-us/training/paths/sc-100-design-zero-trust-strategy-architecture/)
 - [Microsoft Learn: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 - [Exam-Labs: SC-100 Practice Test](https://www.exam-labs.com/exam/SC-100)
