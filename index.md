@@ -1,5 +1,5 @@
 Week 1:
-- [Microsoft Learn: Security, Compliance, and Identity Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/sc-900/)
+- [Microsoft Learn: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 - [Exam-Labs: SC-100 Practice Test](https://www.exam-labs.com/exam/SC-100)
 
 Week 2:
