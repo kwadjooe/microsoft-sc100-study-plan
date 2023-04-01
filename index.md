@@ -1,4 +1,4 @@
-## Road map is based of the Microsoft Cybersecurity Architect SC-100 Study Guide.
+## Road map based on the Microsoft Cybersecurity Architect SC-100 Study Guide.
 
 - [Study guide for Exam SC-100: Microsoft Cybersecurity Architect](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWVbXN)
 
