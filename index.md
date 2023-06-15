@@ -36,7 +36,7 @@ EXTRA
 - [Microsoft Cybersecurity Reference Architectures](https://github.com/MicrosoftDocs/security/blob/main/Downloads/microsoft-cybersecurity-reference-architectures.pptx?raw=true)  
 - [Conditional Access](https://github.com/microsoft/ConditionalAccessforZeroTrustResources/raw/main/ConditionalAccessSamplePolicies/Microsoft%20Conditional%20Access%20for%20Zero%20trust%20persona%20based%20policies.xlsx)
 - [CISO Workshops Module 1](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop-videos?source=recommendations)
-- [CISO Workshops Module 2] (https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop-module-2)
+- [CISO Workshops Module 2](https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop-module-2)
 - [CISO Workshops Module 3: Identity and Zero Trust User Access](https://learn.microsoft.com/en-us/security/ciso-workshop/ciso-workshop-module-3?source=recommendations)
 - [The Chief Information Security Officer (CISO) Workshop Training](https://learn.microsoft.com/en-us/security/ciso-workshop/the-ciso-workshop?source=recommendations)
 - [SLIDES](https://raw.githubusercontent.com/microsoft/CloudAdoptionFramework/master/security/ciso-workshop/Microsoft-CISO-Workshop-Security-Strategy-and-Program.pdf)
